@@ -1,0 +1,16 @@
+C:\Users\Jhumb\source\repos\CarteiraDeAcoes\CarteiraDeAcoes\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Jhumb\source\repos\CarteiraDeAcoes\CarteiraDeAcoes\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Jhumb\source\repos\CarteiraDeAcoes\CarteiraDeAcoes\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Jhumb\source\repos\CarteiraDeAcoes\CarteiraDeAcoes\bin\Debug\netcoreapp2.2\CarteiraDeAcoes.deps.json
+C:\Users\Jhumb\source\repos\CarteiraDeAcoes\CarteiraDeAcoes\bin\Debug\netcoreapp2.2\CarteiraDeAcoes.runtimeconfig.json
+C:\Users\Jhumb\source\repos\CarteiraDeAcoes\CarteiraDeAcoes\bin\Debug\netcoreapp2.2\CarteiraDeAcoes.runtimeconfig.dev.json
+C:\Users\Jhumb\source\repos\CarteiraDeAcoes\CarteiraDeAcoes\bin\Debug\netcoreapp2.2\CarteiraDeAcoes.dll
+C:\Users\Jhumb\source\repos\CarteiraDeAcoes\CarteiraDeAcoes\bin\Debug\netcoreapp2.2\CarteiraDeAcoes.pdb
+C:\Users\Jhumb\source\repos\CarteiraDeAcoes\CarteiraDeAcoes\obj\Debug\netcoreapp2.2\CarteiraDeAcoes.csprojAssemblyReference.cache
+C:\Users\Jhumb\source\repos\CarteiraDeAcoes\CarteiraDeAcoes\obj\Debug\netcoreapp2.2\CarteiraDeAcoes.RazorAssemblyInfo.cache
+C:\Users\Jhumb\source\repos\CarteiraDeAcoes\CarteiraDeAcoes\obj\Debug\netcoreapp2.2\CarteiraDeAcoes.RazorAssemblyInfo.cs
+C:\Users\Jhumb\source\repos\CarteiraDeAcoes\CarteiraDeAcoes\obj\Debug\netcoreapp2.2\CarteiraDeAcoes.AssemblyInfoInputs.cache
+C:\Users\Jhumb\source\repos\CarteiraDeAcoes\CarteiraDeAcoes\obj\Debug\netcoreapp2.2\CarteiraDeAcoes.AssemblyInfo.cs
+C:\Users\Jhumb\source\repos\CarteiraDeAcoes\CarteiraDeAcoes\obj\Debug\netcoreapp2.2\CarteiraDeAcoes.RazorTargetAssemblyInfo.cache
+C:\Users\Jhumb\source\repos\CarteiraDeAcoes\CarteiraDeAcoes\obj\Debug\netcoreapp2.2\CarteiraDeAcoes.dll
+C:\Users\Jhumb\source\repos\CarteiraDeAcoes\CarteiraDeAcoes\obj\Debug\netcoreapp2.2\CarteiraDeAcoes.pdb
